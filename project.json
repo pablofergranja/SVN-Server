@@ -1,0 +1,21 @@
+{
+  "id": "DOD",
+  "description": "Doc. de requisitos de prueba",
+  "group": {
+    "level": 1
+  },
+  "documents": [
+    "Test.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.17",
+    "saveHistory": true
+  }
+}
