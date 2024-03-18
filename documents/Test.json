@@ -1,0 +1,513 @@
+{
+  "id": "Test",
+  "guid": "f09ddec8-d12b-421e-8eea-b8b1f0130c57",
+  "name": "Prueba Exportar Requisitos",
+  "lastId": 8,
+  "createdOn": "2024-03-07T15:11:42.423Z",
+  "createdBy": {
+    "name": "Pablo Fernandez",
+    "email": "pfgranja@arquimea.com",
+    "company": "Arquimea Space"
+  },
+  "lastChangedOn": "2024-03-13T09:35:52.283Z",
+  "lastChangedBy": {
+    "name": "Pablo Fernandez",
+    "email": "pfgranja@arquimea.com",
+    "company": "Arquimea Space"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "2c943fa5-aa86-4415-a18c-f8c16054c1e4",
+      "heading": "Business Case Requirements",
+      "text": "<p>Esto es un archivo de prueba de Reqview con el que vamos a<span style=\"text-align: left;\">&nbsp;comprobar los cambios que hagamos en las plantillas de exportación a Word y a HTML.</span></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "heading": "Introducción"
+          },
+          "changedBy": {
+            "company": "Arquimea Space",
+            "email": "pfgranja@arquimea.com",
+            "name": "Pablo Fernandez"
+          },
+          "changedOn": "2024-03-12T16:57:46.723Z"
+        },
+        {
+          "attributesChanged": {
+            "PRU": true
+          },
+          "changedBy": {
+            "company": "Arquimea Space",
+            "email": "pfgranja@arquimea.com",
+            "name": "Pablo Fernandez"
+          },
+          "changedOn": "2024-03-12T17:00:30.831Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "2",
+          "guid": "39db7cb8-b755-4980-a3e9-13c91ac11fc4",
+          "heading": "Service Requirements",
+          "history": [
+            {
+              "attributesChanged": {
+                "heading": "Sub Indice"
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T16:58:02.501Z"
+            },
+            {
+              "attributesChanged": {
+                "Verification": " "
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T17:17:48.403Z"
+            },
+            {
+              "attributesChanged": {
+                "Verification": " NO tiene"
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T17:17:54.117Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "3",
+              "guid": "1c27a483-202f-4cd7-8cdd-4bf23805d71e",
+              "text": "<p>BeetleSat shall provide transport service to clients at Layer 2 according to OSI model</p>",
+              "Precedence": "M",
+              "Title": "Capa de servicio",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Title": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T15:36:31.559Z"
+                },
+                {
+                  "affectedNodeId": "2",
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T16:57:51.922Z",
+                  "docId": "Test",
+                  "structureAction": "Promote"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Subindice 2"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:46.819Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Aqui lo que queremos es ver cómo se mantienen o dejan de mantener las secciones</p>"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:58.425Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Verification": " Prueba de vibrado"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:06:07.050Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Title": "Prueba"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:06:16.150Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Precedence": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:06:21.869Z"
+                },
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:10:20.959Z",
+                  "docId": "Test",
+                  "structureAction": "Demote"
+                },
+                {
+                  "affectedNodeId": "5",
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:20:04.804Z",
+                  "docId": "Test",
+                  "structureAction": "SwapUp"
+                },
+                {
+                  "affectedNodeId": "4",
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:20:05.261Z",
+                  "docId": "Test",
+                  "structureAction": "SwapUp"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "guid": "c7a83e46-9479-4792-9670-f1bf90ed32e5",
+              "text": "<p>BeetleSat shall be able to interconnect any 2 ground locations within ±62° latitudes</p>",
+              "Precedence": "M",
+              "Title": "Cobertura Global",
+              "Verification": "Prueba radiativa de elevación",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>Esto es un requisito normal. El software debe realizar una autenticación del usuario antes de permitirle interactuar con el sistema.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T16:58:15.339Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Verification": " Prueba térmica"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:04.561Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Title": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:18.779Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Precedence": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:06:18.381Z"
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "guid": "b4537d80-b19f-49bc-bb9d-7ac2e2abac8f",
+              "text": "<p>BeetleSat shall provide the telecommunication Services in K/Ka band</p>",
+              "Precedence": "M",
+              "Title": "Banda de servicio",
+              "Verification": "Test radio",
+              "links": {
+                "reference": [
+                  "Test-3"
+                ]
+              },
+              "history": [
+                {
+                  "addedLink": {
+                    "target": [
+                      "Test-3"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-07T15:12:22.833Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Title": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T15:36:37.785Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Sección 3 "
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T16:58:07.714Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Test": "M"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:00:30.831Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>La contraseña deberá tener 8 caracteres como mínimo y al menos un símbolo especial y mayúscula.&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:26.992Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Verification": "Test radiación"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:34.874Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Title": "Prueba"
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:05:42.252Z"
+                },
+                {
+                  "attributesChanged": {
+                    "Precedence": null
+                  },
+                  "changedBy": {
+                    "company": "Arquimea Space",
+                    "email": "pfgranja@arquimea.com",
+                    "name": "Pablo Fernandez"
+                  },
+                  "changedOn": "2024-03-12T17:06:19.763Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "guid": "302947d5-6f01-49e2-9fe5-d7a7b5b1789e",
+      "heading": "Normas",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>En este apartado queremos comprobar como reescribe la sección superior en un segundo caso</p>"
+          },
+          "changedBy": {
+            "company": "Arquimea Space",
+            "email": "pfgranja@arquimea.com",
+            "name": "Pablo Fernandez"
+          },
+          "changedOn": "2024-03-12T17:10:10.006Z"
+        }
+      ],
+      "children": [
+        {
+          "id": "7",
+          "guid": "1f665336-135a-4aa1-8cb3-e231ef79cc67",
+          "text": "<p>Ejemplo de requisito con un adjunto</p>",
+          "links": {
+            "reference": [
+              "Test-3"
+            ]
+          },
+          "attachments": [
+            "Test-7_1_La gota que colmó el vaso.png"
+          ],
+          "history": [
+            {
+              "attributesChanged": {
+                "Verification": "Test radiación"
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T17:20:33.430Z"
+            },
+            {
+              "addedLink": {
+                "target": [
+                  "Test-3"
+                ],
+                "type": "reference"
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-13T09:35:52.283Z"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "guid": "f3d9caaf-d772-4fa4-8ab6-de0e2787d73e",
+          "text": "<p>Este es un ejemplo de requisito super largo, a ver qué pasa.&nbsp;&nbsp;<strong style=\"text-align: justify;\">Lorem Ipsum</strong><span style=\"text-align: justify;\">&nbsp;es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas \"Letraset\", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.&nbsp;<strong style=\"text-align: justify;\">Lorem Ipsum</strong><span style=\"text-align: justify;\">&nbsp;es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas \"Letraset\", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</span></span></p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "Title": null
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T15:41:45.680Z"
+            },
+            {
+              "attributesChanged": {
+                "Title": "Prueba"
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernandez"
+              },
+              "changedOn": "2024-03-12T17:20:36.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attributes": {
+    "Precedence": {
+      "name": "Prioridad",
+      "type": "enum",
+      "values": [
+        {
+          "default": false,
+          "key": "M",
+          "label": "Shall have (Mandatory)"
+        },
+        {
+          "default": false,
+          "key": "D",
+          "label": "Should have (Desirable)"
+        },
+        {
+          "default": false,
+          "key": "O",
+          "label": "Can have (Optional)"
+        }
+      ]
+    },
+    "Title": {
+      "name": "Requirement Title",
+      "type": "string"
+    },
+    "Verification": {
+      "name": "Verification Method",
+      "type": "string"
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.17"
+  }
+}
